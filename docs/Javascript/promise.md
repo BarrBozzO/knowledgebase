@@ -180,7 +180,7 @@ The native Promise object has some extra stuff you might be interested in:
 
 Read original source
 
-### Links
+# References
 
 [Medium - what is a promise](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
 [MDN - promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)

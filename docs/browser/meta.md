@@ -80,7 +80,7 @@ Facebook uses OG
 
 ---
 
-### Links
+# References
 
 [полезные-метатеги](https://canonium.com/articles/html-meta-tags/)
 [w3-meta-tags](https://www.w3schools.com/tags/tag_meta.asp)

@@ -112,6 +112,6 @@ button:hover {}
 p::first-line {} // первая строка элемента <p>
 ```
 
-### Links
+# References
 
 [почему браузер читает CSS-селекторы справа налево](https://vk.com/@webcademy-laifhak-pochemu-brauzer-chitaet-css-selektory-sprava-nalevo)

@@ -196,6 +196,6 @@ Now you can see how `trace()` is just a special-cased `tap()`:
 
 You should be starting to get a sense of what functional programming is like, and how partial application & currying collaborate with function composition to help you write programs which are more readable with less boilerplate.
 
-### Links
+# References
 
 [Master the JavaScript Interview: What is Function Composition?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0)

@@ -33,7 +33,7 @@ In this example, 2, 8, & 5 are arguments. They’re values passed into the funct
 
 `Math.max()` is a function that takes any number of arguments and returns the largest argument value. In this case, the largest number we passed in was 8, and that’s the number that got returned.
 
-### Links
+# References
 
 [Medium - pure function](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
 [Lesson - pure function](https://ericelliottjs.com/premium-content/lesson-pure-functions)

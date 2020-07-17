@@ -28,6 +28,6 @@
 
 ---
 
-### Links
+# References
 
 Original - https://www.freecodecamp.org/news/interview-questions-for-junior-front-end-developers/

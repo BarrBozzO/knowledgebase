@@ -238,6 +238,6 @@ Functional programming favors:
 - Expressions over statements
 - Containers & higher order functions over ad-hoc polymorphism
 
-### Links
+# References
 
 [Master the JavaScript Interview: What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)

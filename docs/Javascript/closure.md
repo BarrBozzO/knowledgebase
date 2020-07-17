@@ -72,7 +72,7 @@ add10(5);
 
 In this example, the argument, `10` becomes a fixed parameter remembered inside the `add10()` closure scope.
 
-### Links
+# References
 
 [MDN - closure](https://developer.mozilla.org/ru/docs/Web/JavaScript/Closures)
 [Medium - Master the JavaScript Interview: What is a Closure?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b3677)

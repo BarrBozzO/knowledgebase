@@ -204,7 +204,7 @@ The animationcancel event is fired when a CSS Animation unexpectedly aborts. In 
 
 ---
 
-### Links
+# References
 
 [mdn animation](https://developer.mozilla.org/en-US/docs/Web/CSS/transition)
 [Medium](https://medium.com/engineerbabu/a-detailed-guide-to-css-animations-and-transitions-b544502c089c)
