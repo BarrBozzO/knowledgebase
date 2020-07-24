@@ -1,4 +1,4 @@
-# POSTCSS
+# General
 
 The tool itself is a Node.js module that parses CSS into an abstract syntax tree (AST); passes that AST through any number of “plugin” functions; and then converts that AST back into a string, which you can output to a file. Each function the AST passes through may or may not transform it; sourcemaps will be generated to keep track of any changes.
 
